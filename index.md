@@ -56,6 +56,10 @@ que elijas o exportar tus movimientos (CSV). Esos ficheros se guardan donde tú 
 Google Drive) y a partir de ahí quedan bajo tu control. Las fotos de tickets no van dentro de esos
 ficheros; sí pasan a un móvil nuevo con la transferencia de datos de Android.
 
+Si pones una contraseña en *Ajustes → Tus datos → Copias con contraseña*, las copias (manuales y automáticas)
+se guardan cifradas con AES-256 y solo pueden abrirse con esa contraseña. La contraseña se guarda únicamente
+en tu móvil; si la olvidas, nadie puede recuperar esas copias. La exportación CSV no se cifra.
+
 ## Permisos
 
 | Permiso | Para qué |
